@@ -1,5 +1,5 @@
 package com.wellsfargo.counselor.entity;
-
+//Security
 public class Security {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

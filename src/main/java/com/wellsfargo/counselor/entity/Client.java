@@ -1,5 +1,5 @@
 package com.wellsfargo.counselor.entity;
-
+//client
 public class Client {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

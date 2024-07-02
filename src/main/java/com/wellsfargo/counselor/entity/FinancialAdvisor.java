@@ -1,5 +1,5 @@
 package com.wellsfargo.counselor.entity;
-
+//Financial Advisor
 public class FinancialAdvisor {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

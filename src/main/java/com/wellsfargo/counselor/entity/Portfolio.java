@@ -2,7 +2,7 @@ package com.wellsfargo.counselor.entity;
 
 public class Portfolio {
     private Long portfolioId;
-
+//Portfolio
     @OneToOne
     @JoinColumn(name = "client_id")
     private Client client;
